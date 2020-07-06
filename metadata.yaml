@@ -1,11 +1,16 @@
 _repo: Technique-of-Eye-Dissections_62544
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62544-h/images/cover_sm.jpg
 creator:
   author:
     agent_name: Woll, Frederic A.
     gutenberg_agent_id: '51998'
     url: http://www.gutenberg.org/2009/agents/51998
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62544#Technique-of-Eye-Dissections
 gutenberg_issued: '2020-07-02'
 gutenberg_type: Text
 identifiers:
